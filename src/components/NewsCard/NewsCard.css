@@ -1,0 +1,4 @@
+.author-source-row{
+  display: flex;
+  justify-content: space-between;
+}
