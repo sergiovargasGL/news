@@ -24,7 +24,8 @@ module.exports = {
 	'rules': {
 		'indent': [
 			'error',
-			'tab'
+			'tab',
+			2
 		],
 		'linebreak-style': [
 			'error',

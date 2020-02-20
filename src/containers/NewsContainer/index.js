@@ -2,29 +2,43 @@
 import React, { useState, useEffect } from 'react';
 import { Container, Row, Col } from 'reactstrap';
 import NewsCard from '../../components/NewsCard';
+import FilterBar from '../../components/FilterBar';
+import { connect } from 'react-redux';
+import { getArticles, filterArticles } from '../../redux/actionCreators/articles';
 
-const NewsContainer = () => {
-	const [news, setNews] = useState([]);
-	const fetchNews = async () => {
-		const url = 'http://localhost:3004/articles'; // Mock json server url
-		const response = await fetch(url);
-		const result = await response.json();
-		setNews(result.articles);
-	};
-  
-	useEffect(() => {
-		fetchNews();
-	});
+const NewsContainer = (props) => {
+  const { getArticles, filterArticles, articles, loading, error } = props;
 
-	return (<Container>
-		<Row>
-			{news.map(article => (
-				<Col key={article.title} lg={4} md={6} sm={12}>
-					<NewsCard article={article}></NewsCard>
-				</Col>
-			))}
-		</Row>
-	</Container>);
+  useEffect(() => {
+    getArticles();
+  }, []);
+
+  return (
+    <Container>
+      <Row>
+        <FilterBar onChange={filterArticles}/>
+      </Row>
+      <Row>
+        {loading && !error ? 'Loading...' :
+          articles.map(article => (
+            <Col key={article.title} lg={4} md={6} sm={12}>
+              <NewsCard article={article}></NewsCard>
+            </Col>
+          ))}
+      </Row>
+    </Container>);
 };
 
-export default NewsContainer;
+const mapStateToProps = state => ({
+  articles: state.elements,
+  loading: state.loading,
+  error: state.error
+});
+
+const mapDispatchToProps = {
+  getArticles,
+  filterArticles
+};
+
+
+export default connect(mapStateToProps, mapDispatchToProps)(NewsContainer);
