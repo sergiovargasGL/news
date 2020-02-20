@@ -4,7 +4,10 @@ const initialState = {
   isLoading: false,
   elements: [],
   response: {},
-  error: false
+  articlesToShow: 20,
+  error: false,
+  totalPages: 0,
+  actualPage: 0
 }
 
 const articles = (state = initialState, action) => {
@@ -15,16 +18,20 @@ const articles = (state = initialState, action) => {
         loading: true
       };
     case types.getArticlesSuccess:
+      const elements = action.payload.pageNumber > 1 ? [...state.elements, ...action.payload.articles] : action.payload.articles;
       return {
         ...state,
         loading: false,
-        elements: action.payload.articles,
-        response: action.payload
+        elements,
+        response: action.payload,
+        totalPages: Math.ceil(action.payload.totalResults / 20),
+        actualPage: state.actualPage + 1
       };
     case types.getArticlesFailure:
       return {
         ...state,
-        error: true
+        error: true,
+        loading:false
       };
     case types.filterArticles:
       const filter= action.payload;

@@ -1,22 +1,30 @@
 import React from 'react';
 import NewsContainer from './containers/NewsContainer';
+import LoadingOverlay from 'react-loading-overlay';
+import { connect } from 'react-redux';
 import './App.css';
-import { Provider } from 'react-redux';
-import store from './redux/store';
+import Header from './components/Header';
 
-function App() {
+
+const App = ({ loading }) => {
 	return (
-		<Provider store={store}>
+
+		<LoadingOverlay
+			active={loading}
+			spinner
+			text='Loading your content...'
+		>
 			<div className="App">
-				<header className="App-header">
-					<h1>
-					News Feed
-					</h1>
-				</header>
+				<Header />
 				<NewsContainer />
 			</div>
-		</Provider>
+		</LoadingOverlay>
+
 	);
 }
 
-export default App;
+const mapStateToProps = state => ({
+	loading: state.loading
+});
+
+export default connect(mapStateToProps)(App);
