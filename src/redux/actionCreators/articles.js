@@ -11,8 +11,7 @@ export function getArticles(pageNumber) {
 			type: types.getArticlesRequest
 		});
 		try {
-			const response = await fetch(API_URL);//mock json
-			//const response = await fetch(API_URL+pageNumber)
+			const response = await fetch(API_URL+pageNumber)
 			const result = await response.json();
 
 			if (response.status === 200)
