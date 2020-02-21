@@ -1,3 +1,10 @@
-.super-container {
-  min-height: 100vh;
+.scroll-container {
+  overflow: auto;
+}
+
+.error-message {
+  display: flex;
+  justify-content: center;
+  color: red;
+  margin-top: 200px;
 }
