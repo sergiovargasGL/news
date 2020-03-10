@@ -2,10 +2,8 @@
   "name": "news",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    
+  "dependencies": { 
     "@babel/preset-react": "^7.8.3",
-    
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
@@ -22,7 +20,7 @@
     "redux": "^4.0.5",
     "redux-devtools-extension": "^2.13.8",
     "redux-logger": "^3.0.6",
-    "redux-thunk": "^2.3.0",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "cypress": "^4.0.2",
