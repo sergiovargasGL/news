@@ -1,0 +1,268 @@
+{
+    "articles": {
+        "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dan Merica, CNN",
+            "title": "What drives Amy Klobuchar's disdain for Pete Buttigieg - CNN",
+            "description": "Minnesota Sen. Amy Klobuchar first publicly vented her chief frustration with Pete Buttigieg nine months ago in a parking lot in Cresco, Iowa.",
+            "url": "https://www.cnn.com/2020/02/20/politics/pete-buttigieg-amy-klobuchar-debate/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200219225100-07-msnbc-dem-debate-0219-buttigieg-klobuchar-super-tease.jpg",
+            "publishedAt": "2020-02-20T15:51:00Z",
+            "content": "Las Vegas (CNN)Minnesota Sen. Amy Klobuchar first publicly vented her chief frustration with Pete Buttigieg nine months ago in a parking lot in Cresco, Iowa.\r\nHe is benefiting from male privilege and wouldn't be treated the same if he were a woman, she said. … [+6689 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Horowitz, CNN Business",
+            "title": "Goldman Sachs warns of stock market correction - CNN",
+            "description": "Stocks keep reaching record highs. Goldman Sachs is worried that leaves investors vulnerable to surprises.",
+            "url": "https://www.cnn.com/2020/02/20/investing/goldman-sachs-stocks/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200220121435-nyse-0218-super-tease.jpg",
+            "publishedAt": "2020-02-20T15:20:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youtube.com"
+            },
+            "author": null,
+            "title": "Ben Affleck shares how he got better and moved on after struggles with alcohol, Part 1 | ABC News - ABC News",
+            "description": "The Oscar-winning actor told Diane Sawyer in an exclusive interview his dad’s addiction to alcohol taught him “how important it is for me to be sober” during...",
+            "url": "https://www.youtube.com/watch?v=hRwcYKZ2YzU",
+            "urlToImage": "https://i.ytimg.com/vi/hRwcYKZ2YzU/maxresdefault.jpg",
+            "publishedAt": "2020-02-20T15:11:36Z",
+            "content": "[[getSimpleString(data.title)]]\r\n[[getSimpleString(data.description)]]\r\n[[getSimpleString(data.videoCountText)]]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youtube.com"
+            },
+            "author": null,
+            "title": "Passengers disembark from cruise ship as Japan announces 2 new deaths l ABC News - ABC News",
+            "description": "A couple in their 80’s who were taken off the Diamond Princess died after being hospitalized from COVID-19. READ MORE: 2 cruise ship passengers in Japan die ...",
+            "url": "https://www.youtube.com/watch?v=1BGWbOvu4V8",
+            "urlToImage": "https://i.ytimg.com/vi/1BGWbOvu4V8/maxresdefault.jpg",
+            "publishedAt": "2020-02-20T14:42:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tyler McCarthy",
+            "title": "Victoria's Secret to be sold for $525 million, CEO Les Wexner will step down - Fox News",
+            "description": "Following a dip in sales and criticism about its billionaire founder, Victoria's Secret will be sold and have its founder step down as it seeks to move forward and find profit.",
+            "url": "https://www.foxnews.com/entertainment/victorias-secret-sale-525-million-ceo-les-wexner-step-down",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/11/vs-2.jpg",
+            "publishedAt": "2020-02-20T14:30:38Z",
+            "content": "Following a dip in sales and criticism about its billionaire founder, Victoria's Secret will be sold and have its founder step down as it seeks to move forward and find profit.\r\nThe company's owner, L Brands, confirmed to Fox News that the private-equity firm… [+4069 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Animal Crossing: New Horizons: 11 things we learned about the Switch game - The Verge",
+            "description": "During a Nintendo Direct presentation, Nintendo provided plenty of information about Animal Crossing: New Horizons on the Switch, including details about multiplayer and returning characters like Isabelle.",
+            "url": "https://www.theverge.com/2020/2/20/21144088/animal-crossing-new-horizons-nintendo-direct-switch-online-multiplayer-isabelle",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/j8LBkVPnKeHbaX2j6Cs7b1cklyk=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19732514/Switch_ACNH_0220_Direct_Advanced_SCRN_06_copy.jpg",
+            "publishedAt": "2020-02-20T14:30:00Z",
+            "content": "Isabelle is back\r\nThe vibe around Animal Crossing: New Horizons is a lot less secretive now. This morning, Nintendo showed off a lengthy presentation that provided plenty of details about the latest title in its adorable life sim series, which is making its d… [+7251 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Eric Pincus",
+            "title": "Would LeBron Take a Pay Cut for Giannis? LA's Superteam Dream Might Require It - Bleacher Report",
+            "description": "LOS ANGELES — \"Milwaukee, L.A., whatever.\"      Two words, two initials, but a lot to chew on out of the mouth of Milwaukee Bucks All-Star Giannis Antetokounmpo to Mackenzie ...",
+            "url": "https://bleacherreport.com/articles/2877188-would-lebron-take-a-pay-cut-for-giannis-las-superteam-dream-might-require-it",
+            "urlToImage": "https://img.bleacherreport.net/img/images/photos/003/853/555/hi-res-def8e72de294dbef5c8a299b298cd2e2_crop_exact.jpg?w=1200&h=1200&q=75",
+            "publishedAt": "2020-02-20T14:01:45Z",
+            "content": "Stacy Revere/Getty Images\r\nLOS ANGELES \"Milwaukee, L.A., whatever.\"\r\nTwo words, two initials, but a lot to chew on out of the mouth of Milwaukee Bucks All-Star Giannis Antetokounmpo to Mackenzie Salmon of Sports Pulse when asked whether he has envisioned play… [+6228 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cincyjungle.com"
+            },
+            "author": "PatrickJudis",
+            "title": "Mel Kiper Jr. shuts down lazy criticism surrounding Bengals - Cincy Jungle",
+            "description": "Mel Kiper Jr. goes off on the idea that Joe Burrow is going to an unacceptable situation.",
+            "url": "https://www.cincyjungle.com/2020/2/20/21143984/mel-kiper-jr-shuts-down-lazy-criticism-surrounding-bengals",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/YW17nyNuz8Su4_ku_0mUJ_zpCZc=/0x750:2229x1917/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10543355/74043988.jpg.jpg",
+            "publishedAt": "2020-02-20T14:00:00Z",
+            "content": "It has been seemingly relentless the amount of takes coming from analysts over whether LSU quarterback Joe Burrow should allow the Bengals to select him. \r\nOne of the main themes is that the Bengals as a franchise arent committed enough to winning, and that B… [+2526 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.org"
+            },
+            "author": "Jessica Wolf",
+            "title": "Study of African society inspires broad thinking about human paternity, fidelity - Phys.org",
+            "description": "A new study from UCLA professor of anthropology Brooke Scelza invites geneticists and sociologists to think more broadly about human fidelity and paternity.",
+            "url": "https://phys.org/news/2020-02-african-society-broad-human-paternity.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/studyofafric.jpg",
+            "publishedAt": "2020-02-20T13:36:29Z",
+            "content": "A new study from UCLA professor of anthropology Brooke Scelza invites geneticists and sociologists to think more broadly about human fidelity and paternity.\r\nScelza's study, published in the journal Science Advances, uses data from a long-term anthropological… [+4412 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": null,
+            "title": "[Update: Verizon denies] Verizon will reportedly stop selling Google phones, starting with Pixel 4a - 9to5Google",
+            "description": "A new report this evening alleges that Verizon will stop selling Google phones going forward, including the Pixel 4a and Pixel 5...",
+            "url": "https://9to5google.com/2020/02/20/verizon-stop-selling-pixel/",
+            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2020/02/pixel-4-event-1-3.jpg?quality=82&strip=all",
+            "publishedAt": "2020-02-20T13:35:00Z",
+            "content": "Until the Pixel 3a, Google exclusively partnered with Verizon to sell phones in the US. That close relationship wound down further when the Pixel 4 launched on all four major carriers last year. A new report this evening alleges that Verizon will stop selling… [+2392 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Julia Alexander",
+            "title": "CBS is planning an improved streaming service after squandering its head start with All Access - The Verge",
+            "description": "ViacomCBS is trying to accelerate its position in the streaming wars by launching an upgraded version of CBS All Access, with one tier that will offer live news and sports. The company is referring to this as House of Brands.",
+            "url": "https://www.theverge.com/2020/2/20/21144199/cbs-streaming-service-all-access-price-house-of-brands-live-news-sports",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/hDR4s55oL-TZFSv2hPLYIzzN0f8=/1x0:1199x627/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19732142/cbs_all_access.jpg",
+            "publishedAt": "2020-02-20T13:16:07Z",
+            "content": "Details about the service are thin, but expect live sports and news\r\nViacomCBS is launching a new streaming service that will hopefully do more for the recently merged company than the current form of CBS All Access has done in its six-year run. \r\nThe new ser… [+5747 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livescience.com"
+            },
+            "author": "Rafi Letzter",
+            "title": "What should we do if a 'planet-killer' asteroid takes aim at Earth? - Livescience.com",
+            "description": "Researchers at MIT calculated which option is best depending on the asteroid and its path through space.",
+            "url": "https://www.livescience.com/how-to-stop-asteroid-from-hitting-earth.html",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YXNfNTDqakHs4PJ9u2D9aK-1200-80.jpg",
+            "publishedAt": "2020-02-20T13:01:00Z",
+            "content": "If a giant object looks like it's going to slam into Earth, humanity has a few options: Hammer it with a spacecraft hard enough to knock it off course, blast it with nuclear weapons, tug on it with a gravity tractor, or even slow it down using concentrated su… [+6784 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Androidpolice.com"
+            },
+            "author": null,
+            "title": "You’re not alone: All Galaxy phones got the mysterious ‘1’ notification, Samsung clarifies - Android Police",
+            "description": "Late last night, Samsung sent a weird “1 1” notification to all Galaxy phone users around the globe, which stirred up discussions across",
+            "url": "https://www.androidpolice.com/2020/02/20/samsung-galaxy-find-my-mobile-1-notification/",
+            "urlToImage": "https://www.androidpolice.com/wp-content/uploads/2020/02/Samsung-Galaxy-Find-My-Mobile-1-notification-hero.jpg",
+            "publishedAt": "2020-02-20T12:55:00Z",
+            "content": "Late last night, Samsung sent a weird “1 1” notification to all Galaxy phone users around the globe, which stirred up discussions across social platforms. The notification came from the preinstalled Find My Mobile app—Samsung’s alternative to Google’s Find My… [+1522 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Dawn Kopecki",
+            "title": "Coronavirus live updates: US hospitals prepare for possible pandemic, Air France tallies 'brutal' impact from outbreak - CNBC",
+            "description": "More than 75,700 cases of the COVID-19 coronavirus and at least 2,130 deaths have been confirmed as of Thursday.",
+            "url": "https://www.cnbc.com/2020/02/20/coronavirus-latest-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106400546-1582208522111gettyimages-1201964140.jpeg?v=1582208594",
+            "publishedAt": "2020-02-20T12:38:00Z",
+            "content": "This is a live blog. Please check back for updates.\r\nAll times below are in Eastern time.\r\n<ul><li>Total confirmed cases: More than 75,700</li><li>Total deaths: At least 2,130</li></ul>\r\n9:36 am: P&amp;G grapples with supply chain issues in China\r\nProcter &am… [+4643 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nytimes.com"
+            },
+            "author": "Vanessa Friedman",
+            "title": "Gucci Declares the Death of the Fashion Show Greatly Exaggerated - The New York Times",
+            "description": "It’s a “ritual” said Alessandro Michele. And he’s not giving it up any time soon. Plus communion at Jil Sander and ’80s revivalism at Alberta Ferretti.",
+            "url": "https://www.nytimes.com/2020/02/20/style/milan-fashion-week-gucci.html",
+            "urlToImage": "https://static01.nyt.com/images/2020/02/20/fashion/20GUCCI-gucci-sub/20GUCCI-gucci-sub-facebookJumbo.jpg",
+            "publishedAt": "2020-02-20T12:33:00Z",
+            "content": "I wanted to say fashion is a complex mechanism and something sacred, Mr. Michele said after the show, resplendent in red plaid shirt over white tee, and emerald green corduroys, like a backwoods refugee from Santas workshop, free-associating among religion, c… [+768 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Businesswire.com"
+            },
+            "author": null,
+            "title": "Morgan Stanley to Acquire E*TRADE, Creating a Leader in all Major Wealth Management Channels - Business Wire",
+            "description": "Morgan Stanley (NYSE: MS) and E*TRADE Financial Corporation (NASDAQ: ETFC) have entered into a definitive agreement under which Morgan Stanley will ac",
+            "url": "https://www.businesswire.com/news/home/20200220005462/en/Morgan-Stanley-Acquire-E*TRADE-Creating-Leader-Major",
+            "urlToImage": "https://mms.businesswire.com/media/20200220005462/en/205049/23/Logo.jpg",
+            "publishedAt": "2020-02-20T12:30:00Z",
+            "content": "NEW YORK &amp; ARLINGTON, Va.--(BUSINESS WIRE)--Morgan Stanley (NYSE: MS) and E*TRADE Financial Corporation (NASDAQ: ETFC) have entered into a definitive agreement under which Morgan Stanley will acquire E*TRADE, a leading financial services company and pione… [+16421 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mia Jankowicz",
+            "title": "Coronavirus restrictions in S Korea, Vietnam as more die outside China - Business Insider - Business Insider",
+            "description": "The vast majority of the 2,100 deaths from coronavirus remain in China — but rates outside of the country are starting to creep up.",
+            "url": "https://www.businessinsider.com/coronavirus-quarantines-south-korea-vietnam-more-die-outside-china-2020-2",
+            "urlToImage": "https://i.insider.com/5e4e79760438953b1a676144?width=1200&format=jpeg",
+            "publishedAt": "2020-02-20T12:24:02Z",
+            "content": "Millions of people in South Korea and Vietnam are being encouraged — or forced — to stay home, showing the increased harshness of prevention measures as the coronavirus spreads beyond China.\r\nSouth Korea reported its first death from the disease on Thursday.\r… [+2439 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Tom Embury-Dennis",
+            "title": "Trump repeatedly struggles to pronounce words during conspiracy-laden rally, before suggesting he'll pardon Roger Stone in late-night tweet - The Independent",
+            "description": "US president gives thumbs up during anti-Hillary Clinton chants of 'Lock her up!'",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rally-twitter-roger-stone-sentence-pardon-2020-election-rally-phoenix-arizona-a9345956.html",
+            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/02/20/10/trump.png",
+            "publishedAt": "2020-02-20T12:21:00Z",
+            "content": "Donald Trump delivered a stumbling, incoherent and at times outright fictitious re-election rally addres in which he complained about a dogs media coverage and appeared to approve calls to imprison Hillary Clinton. \r\nThe dark, grievance-filled speech to suppo… [+12203 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Ryan W. Miller",
+            "title": "2 women killed when Mercedes-Benz falls off Florida ferry; Coast Guard investigating - USA TODAY",
+            "description": "The bodies of two women were discovered in a car that rolled off a ferry into a deep shipping channel off the coast of South Florida.",
+            "url": "https://www.usatoday.com/story/news/nation/2020/02/20/florida-ferry-deaths-car-rolls-off-killing-women/4817369002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/02/20/USAT/72eeb782-057c-4776-b898-c750eb0f10b0-VPC_FERRY_CAR_DEATH_DESK_THUMB.00_00_03_22.Still001.jpg?crop=1911,1075,x0,y0&width=1600&height=800&fit=bounds",
+            "publishedAt": "2020-02-20T11:40:56Z",
+            "content": "Emma Afra, of Miami, and Viviane Brahms, were found in a vehicle that sank after falling from a Florida ferry.\r\nUSA TODAY\r\nA ritzy South Florida island community was in shock after two women died when a Mercedes-Benz rolled off a ferry into a shipping channel… [+2751 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Espn.com"
+            },
+            "author": null,
+            "title": "Roger Federer out of French Open after arthroscopic knee surgery - ESPN",
+            "description": "Roger Federer has announced he will miss the French Open following surgery on his right knee.",
+            "url": "https://www.espn.com/tennis/story/_/id/28741946/roger-federer-french-open-arthroscopic-knee-surgery",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2019%2F1028%2Fr619456_1296x729_16%2D9.jpg",
+            "publishedAt": "2020-02-20T11:19:21Z",
+            "content": "Roger Federer has announced he will miss the French Open following surgery on his right knee.\r\nFederer, 38, underwent surgery in Switzerland on Wednesday and announced via Twitter that he will be out until the grass season.\r\npic.twitter.com/VVGI1o8XYZ\r\n Roger… [+928 chars]"
+        }
+    ]
+    }
+}
